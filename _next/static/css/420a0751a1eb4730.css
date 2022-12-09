@@ -268,8 +268,8 @@ a {
 	width: 200px;
 	height: 200px;
 	position: absolute;
-	left: 423px;
-	top: 266px;
+	left: 300px;
+	top: 2012px;
 }
 
 .Home_sendCheck__xMz4p {
@@ -277,11 +277,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/check.2eeee874.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 55px;
-	height: 45px;
+	width: 90x;
+	height: 89px;
 	position: absolute;
-	left: 423px;
-	top: 266px;
+	left: 368px;
+	top: 225px;
 }
 
 .Home_sendDone__abENy {
@@ -292,8 +292,8 @@ a {
 	width: 250px;
 	height: 120px;
 	position: absolute;
-	left: 423px;
-	top: 266px;
+	left: 297px;
+	top: 267px;
 }
 
 .Home_caution__VEpHP {
@@ -323,10 +323,10 @@ a {
 .Home_statusTxt__dVex8 {
 	display: block;
 	position: absolute;
-	left: 418px;
-	top: 586px;
+	left: 336px;
+	top: 573px;
 	color: white;
-	font-size: 15px;
+	font-size: 18px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 
@@ -335,8 +335,8 @@ a {
 .Home_statusSendTxt___A48X {
 	display: block;
 	position: absolute;
-	left: 418px;
-	top: 586px;
+	left: 248px;
+	top: 415px;
 	color: white;
 	font-size: 18px;
 	text-align: center;
@@ -664,7 +664,7 @@ a {
 	width: 550px;
 	height: 425px;
 	position: absolute;
-	left: 250px;
+	left: 141px;
 	top: 100px;
 }
 
@@ -698,11 +698,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/closeBtn1.0f6cab81.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 50px;
-	height: 52px;
+	width: 108px;
+	height: 98px;
 	position: absolute;
-	left: 600px;
-	top: 120px;
+	left: 635px;
+	top: -9px;
 }
 
 .Home_closeSend__b_1LB:hover {
@@ -710,11 +710,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/closeBtn2.a2f4fe58.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 50px;
-	height: 52px;
+	width: 108px;
+	height: 98px;
 	position: absolute;
-	left: 600px;
-	top: 120px;
+	left: 635px;
+	top: -9px;
 }
 
 .Home_teleIcon__qLDZz {
