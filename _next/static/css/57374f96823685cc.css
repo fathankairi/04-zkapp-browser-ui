@@ -323,8 +323,8 @@ a {
 .Home_statusTxt__dVex8 {
 	display: block;
 	position: absolute;
-	left: 412px;
-	top: 461px;
+	left: 418px;
+	top: 586px;
 	color: white;
 	font-size: 15px;
 	text-align: center;
@@ -335,8 +335,8 @@ a {
 .Home_statusSendTxt___A48X {
 	display: block;
 	position: absolute;
-	left: 412px;
-	top: 461px;
+	left: 418px;
+	top: 586px;
 	color: white;
 	font-size: 18px;
 	text-align: center;
@@ -441,11 +441,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn1.7f8948ea.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 115px;
+	height: 115px;
 	position: absolute;
 	left: 250px;
-	top: 400px;
+	top: 469px;
 }
 
 .Home_sendBtn__F6hw6:hover {
@@ -453,11 +453,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn2.7134272e.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 115px;
+	height: 115px;
 	position: absolute;
 	left: 250px;
-	top: 400px;
+	top: 469px;
 }
 
 .Home_sendBtn__F6hw6:active {
@@ -465,11 +465,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.bea79c61.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 115px;
+	height: 115px;
 	position: absolute;
 	left: 250px;
-	top: 400px;
+	top: 469px;
 }
 
 .Home_sendBtnDisable__6VyTK {
@@ -477,11 +477,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.bea79c61.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 115px;
+	height: 115px;
 	position: absolute;
 	left: 250px;
-	top: 400px;
+	top: 469px;
 }
 
 .Home_getBtn__h_3sY {
@@ -489,11 +489,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn1.21e7b049.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 302px;
+	height: 83px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 407px;
+	top: 496px;
 }
 
 .Home_getBtn__h_3sY:hover {
@@ -501,11 +501,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn2.1b378c4d.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 302px;
+	height: 83px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 407px;
+	top: 496px;
 }
 
 .Home_getBtn__h_3sY:active {
@@ -513,11 +513,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn3.df3205b9.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 302px;
+	height: 83px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 407px;
+	top: 496px;
 }
 
 .Home_getBtnDisable__ASdt7 {
@@ -525,11 +525,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn3.df3205b9.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 302px;
+	height: 83px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 407px;
+	top: 496px;
 }
 
 .Home_txtState__XfTmO {
@@ -562,7 +562,7 @@ a {
 	left: 285px;
 	top: 350px;
 	color: white;
-	font-size: 12px;
+	font-size: 17px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 
@@ -571,10 +571,10 @@ a {
 .Home_addrs__ciNE1 {
 	display: block;
 	position: absolute;
-	left: 220px;
+	left: 2000px;
 	top: 350px;
 	color: white;
-	font-size: 13px;
+	font-size: 17px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 
@@ -617,8 +617,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/screen.9bdf6601.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 380px;
-	height: 280px;
+	width: 550x;
+	height: 425px;
 	position: absolute;
 	left: 260px;
 	top: 150px;
@@ -661,8 +661,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/send.9bdf6601.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 400px;
-	height: 330px;
+	width: 550px;
+	height: 425px;
 	position: absolute;
 	left: 250px;
 	top: 100px;
@@ -725,7 +725,7 @@ a {
 	width: 77px;
 	height: 73px;
 	position: absolute;
-	left: 104px;
+	left: 697px;
 	top: 800px;
 
 }
@@ -736,9 +736,9 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 72px;
-	height: 70px;
+	height: 71px;
 	position: absolute;
-	left: 187px;
+	left: 787px;
 	top: 800px;
 
 }
@@ -751,7 +751,7 @@ a {
 	width: 72px;
 	height: 70px;
 	position: absolute;
-	left: 272px;
+	left: 870px;
 	top: 800px;
 }
 
